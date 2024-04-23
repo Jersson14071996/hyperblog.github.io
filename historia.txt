@@ -2,4 +2,8 @@ Esta es la historia de Jersson
 
 Jersson tiene 27 años y nacio en Abancay -Apurímac
 
+<<<<<<< HEAD
 Hoy hablaremos de su vida y obra maestra
+=======
+Hoy hablaremos de su historia en todo lugar
+>>>>>>> cabecera
